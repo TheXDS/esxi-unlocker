@@ -4,7 +4,7 @@ macOS Unlocker V3.0.2 for VMware ESXi
 1. Introduction
 ---------------
 
-Unlocker 3 for ESXi is designed for VMware ESXi 6.5, 6.7 and 7.0
+Unlocker 3 for ESXi is designed for VMware ESXi 6.5, 6.7, 7.0 and 8.0
 
 The patch code carries out the following modifications dependent on the product
 being patched:
